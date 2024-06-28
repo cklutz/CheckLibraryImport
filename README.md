@@ -1,5 +1,7 @@
 # CheckLibraryImport
 
+[![.NET](https://github.com/cklutz/CheckLibraryImport/actions/workflows/dotnet.yml/badge.svg)](https://github.com/cklutz/CheckLibraryImport/actions/workflows/dotnet.yml)
+
 Check whether `[LibraryImport]` references a known export in a known library.
 
 While migrating `[DllImport]`, using the Microsoft provided fix, I have encountered some
